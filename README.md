@@ -11,7 +11,7 @@ So, how do you use Git?
 
 ## Creating a Repository with `git init`
 
-You want to get started on a project that's going to be the next big thing. The first step is to make a new directory on your computer, probably in your development directory. To do so in the terminal, type:
+You want to get started on a project that's going to be the next big thing. The first step is to make a new directory in the IDE. To do so in the IDE terminal window, type:
 
 ```
 ~ $ mkdir next-big-thing
